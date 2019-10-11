@@ -9,7 +9,7 @@ public class ProjectScanner {
         
         
         //Defenisi Variable
-       int jawaban = 48;
+       int jawaban = 46;
        int tebakkan;
       
                         
